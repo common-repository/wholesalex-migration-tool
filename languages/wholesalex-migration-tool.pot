@@ -1,0 +1,81 @@
+# Copyright (C) 2024 wpxpo
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: WholesaleX - Migration Tool 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wholesalex-migration-tool\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-09T09:42:57+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wholesalex-migration-tool\n"
+
+#. Plugin Name of the plugin
+msgid "WholesaleX - Migration Tool"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wholesalex-migration-tool"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is a migration tool for wholesalex."
+msgstr ""
+
+#. Author of the plugin
+msgid "wpxpo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpxpo.com/"
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:35
+msgid "Activate"
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:35
+msgid "Install"
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:36
+msgid "Activating.."
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:36
+msgid "Installing.."
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:37
+msgid "Activated"
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:37
+msgid "Installed"
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:169
+msgid "WholesaleX Migration Tool needs the “WholesaleX ” plugin to run."
+msgstr ""
+
+#. translators: %s: Required WholesaleX Core Version
+#: includes/class-wholesalex-migration-notice.php:344
+msgid "You have an old version of WholesaleX. To use the Migration Tool, you must have a %s or later version."
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:373
+#: includes/class-wholesalex-migration-notice.php:383
+msgid "WholesaleX Activation Failed!"
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:376
+msgid "WholesaleX Installation Failed!"
+msgstr ""
+
+#: includes/class-wholesalex-migration-notice.php:388
+msgid "Successfully Installed and Activated"
+msgstr ""
